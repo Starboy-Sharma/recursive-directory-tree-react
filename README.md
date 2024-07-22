@@ -1,4 +1,10 @@
-# React + Vite
+# React Dynamic Tree Structure 🌲
+
+In this Repo I've using Tailwind CSS with React by using Recursion to generate dynamic file tree.
+
+## Installation
+- `npm install`
+- `npm run dev`
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
